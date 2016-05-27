@@ -1,3 +1,3 @@
 This is a demo project with git-flow.
 
-On version 0.2.0 with feature A, B, C, D and Subbu!
+On version 0.2.1 with feature A, B (bugfixed), C, D and Subbu!
